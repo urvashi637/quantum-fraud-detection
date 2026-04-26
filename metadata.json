@@ -1,0 +1,5 @@
+{
+  "name": "Quantum-Safe Payment Integrity Monitor",
+  "description": "A high-security payment monitoring system using lattice-based cryptography and AI-driven fraud detection with human-in-the-loop verification.",
+  "requestFramePermissions": []
+}
